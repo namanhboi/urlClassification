@@ -13,7 +13,7 @@ REQUEST_HEADERS = {
     'Connection': 'keep-alive'}
 
 # Paths for datasets and models
-MAIN_DATASET_PATH = f'Datasets/url_categorization_dfe.csv'
+MAIN_DATASET_PATH = f'Datasets/url-categorization-dfe.csv'
 TOKENS_PATH = f'Datasets/Feature_dataset_{date}.csv'
 WORDS_FREQUENCY_PATH = f"Frequency_models/word_frequency_{date}.picle"
 

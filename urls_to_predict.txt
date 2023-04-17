@@ -1,6 +1,5 @@
-https://www.bbc.com/
-https://www.youtube.com/
-https://docs.python.org/3/
-https://medium.com/
-https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en
-https://finance.yahoo.com/
+https://www.google.com/maps/place/King+Pan+-+B%C3%A1nh+M%C3%AC+Ch%E1%BA%A3o/@20.9612963,105.8453042,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOwjwbIXhOvosrL9NIwgAI49QB77bve6HrsY7hw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOwjwbIXhOvosrL9NIwgAI49QB77bve6HrsY7hw%3Dw203-h152-k-no!7i4000!8i3000!4m7!3m6!1s0x3135ada19d9c0113:0x8fd6c312e83ddc30!8m2!3d20.9612963!4d105.8453042!10e5!16s%2Fg%2F11s9v5q8jp
+https://manga4life.com/
+https://www.omgubuntu.co.uk/
+https://github.com/DEAP/deap/issues/609
+http://nifty.stanford.edu/
