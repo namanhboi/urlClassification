@@ -1,7 +1,7 @@
-from datetime import datetime
+import datetime 
 from nltk.corpus import stopwords
 
-date = datetime.now().strftime("%Y-%m-%d")
+date = datetime.date(2023, 4, 17).strftime("%Y-%m-%d")
 
 # Request headers parameters
 REQUEST_HEADERS = {
